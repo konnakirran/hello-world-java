@@ -36,6 +36,6 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
     System.out.println("welcome to my world ammadi");
-    Syatem.out.println("have a good day ammadi");
+    System.out.println("have a good day ammadi");
    }
 }
